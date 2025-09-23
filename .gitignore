@@ -1,0 +1,8 @@
+.env
+__pycache__/
+*.pyc
+walmart-copilot/
+*.faiss
+*.pkl
+.DS_Store
+*.log
